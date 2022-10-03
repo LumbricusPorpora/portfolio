@@ -1,1 +1,1 @@
-# PNG image version of protfolio.
+PNG image version of protfolio.
